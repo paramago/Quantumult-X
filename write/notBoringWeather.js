@@ -10,7 +10,7 @@ if (obj.data) {
             "purchase_date":"2022-04-09T05:05:04Z"
         }
     }
-    obj.subscriber.subscriptions ={
+    obj.subscriber.subscriptions = {
         "com.andyworks.weather.yearlyBeliever":{
                 "billing_issues_detected_at":null,
                 "expires_date":"2029-05-26T05:05:04Z",
