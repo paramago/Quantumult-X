@@ -2,7 +2,7 @@ var body = $response.body;
 var obj = JSON.parse(body);
 
 if (obj.data) {
-    obj.offerings[0].identifier = "annualSuper";
+    // obj.offerings[0].identifier = "annualSuper";
     obj.subscriber.entitlements = {
         "com.andyworks.weather.yearlyBeliever":{
             "expires_date":"2029-05-26T05:05:04Z",
