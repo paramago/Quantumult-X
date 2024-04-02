@@ -1,0 +1,97 @@
+{
+  "product_entitlement_mapping" : {
+    "com.andyworks.weather.yearlyBeliever" : {
+      "product_identifier" : "com.andyworks.weather.yearlyBeliever",
+      "entitlements" : [
+        "believer",
+        "skinAndy",
+        "skinCedar",
+        "skinChroma",
+        "skinKarat",
+        "skinMonster",
+        "skinOpal",
+        "skinPresstube"
+      ]
+    },
+    "com.andyworks.weather.monthBeliever" : {
+      "product_identifier" : "com.andyworks.weather.monthBeliever",
+      "entitlements" : [
+        "believer",
+        "skinAndy",
+        "skinCedar",
+        "skinChroma",
+        "skinKarat",
+        "skinMonster",
+        "skinOpal",
+        "skinPresstube"
+      ]
+    },
+    "com.andyworks.weather.monthlyPatron" : {
+      "product_identifier" : "com.andyworks.weather.monthlyPatron",
+      "entitlements" : [
+
+      ]
+    },
+    "com.andyworks.weather.skinPresstube" : {
+      "product_identifier" : "com.andyworks.weather.skinPresstube",
+      "entitlements" : [
+        "skinPresstube"
+      ]
+    },
+    "com.andyworks.weather.skinCedar" : {
+      "product_identifier" : "com.andyworks.weather.skinCedar",
+      "entitlements" : [
+        "skinCedar"
+      ]
+    },
+    "com.andyworks.weather.yearlyPatron" : {
+      "product_identifier" : "com.andyworks.weather.yearlyPatron",
+      "entitlements" : [
+        "patron",
+        "skinAndy",
+        "skinCedar",
+        "skinChroma",
+        "skinKarat",
+        "skinMonster",
+        "skinOpal",
+        "skinPresstube"
+      ]
+    },
+    "com.andyworks.weather.skinKarat" : {
+      "product_identifier" : "com.andyworks.weather.skinKarat",
+      "entitlements" : [
+        "skinKarat"
+      ]
+    },
+    "com.andyworks.weather.skinChroma" : {
+      "product_identifier" : "com.andyworks.weather.skinChroma",
+      "entitlements" : [
+        "skinChroma"
+      ]
+    },
+    "com.andyworks.weather.yearlyApp" : {
+      "product_identifier" : "com.andyworks.weather.yearlyApp",
+      "entitlements" : [
+        "weatherApp"
+      ]
+    },
+    "com.andyworks.weather.skinAndy" : {
+      "product_identifier" : "com.andyworks.weather.skinAndy",
+      "entitlements" : [
+        "skinAndy"
+      ]
+    },
+    "com.andyworks.weather.skinMonster" : {
+      "product_identifier" : "com.andyworks.weather.skinMonster",
+      "entitlements" : [
+        "skinMonster"
+      ]
+    },
+    "com.andyworks.weather.skinOpal" : {
+      "product_identifier" : "com.andyworks.weather.skinOpal",
+      "entitlements" : [
+        "skinOpal"
+      ]
+    }
+  }
+}
